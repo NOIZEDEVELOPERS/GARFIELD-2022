@@ -11,7 +11,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Zenoixnoize">afnanplk</a> to make it public
+Project created by <a href="https://github.com/Zenoixnoize">ZENOI</a> to make it public
     <br>
        | © |
         Reserved |
